@@ -23,7 +23,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbdulrahmanHamdy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src=https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTVod28xZTI3NXNiNjBnbnMweHZzYm1hcHpiYXcwczF5bG01cGIwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41YtCEE2cEMBK9oI/giphy.webp  />
+ 
 </div>
 
 ###
@@ -45,9 +45,10 @@
 ###
 
 <div align="center">
-  <img height="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjRpYWFnb2wyOWRwMTE4dm5meWQ4NjU4aDk1MXBsMjl6cm5iZTVhcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UYzSmRaDu5eVpbvZqw/giphy.webp"  />
-   <img height="300" src=" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjRpYWFnb2wyOWRwMTE4dm5meWQ4NjU4aDk1MXBsMjl6cm5iZTVhcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UYzSmRaDu5eVpbvZqw/giphy.webp"  />
-</div>
+ 
+ <img height="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjRpYWFnb2wyOWRwMTE4dm5meWQ4NjU4aDk1MXBsMjl6cm5iZTVhcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UYzSmRaDu5eVpbvZqw/giphy.webp"  />
+  <img src=https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTVod28xZTI3NXNiNjBnbnMweHZzYm1hcHpiYXcwczF5bG01cGIwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41YtCEE2cEMBK9oI/giphy.webp  />
+ </div>
 
 ###
 
