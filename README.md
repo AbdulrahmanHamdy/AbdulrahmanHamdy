@@ -1,6 +1,9 @@
 
 <div align="center">
   <img  height="150"  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWR2aWpsdDd0NGVxbHRrdzRranY1dHFkM2tobzVxdG9uN3U0MmpwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VESEbRRGALYWOemYmE/giphy.webp"  />
+  <p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Back-end%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p>
 </div>
 
 
