@@ -1,4 +1,8 @@
 
+<div align="center">
+  <img  height="150"  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWR2aWpsdDd0NGVxbHRrdzRranY1dHFkM2tobzVxdG9uN3U0MmpwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VESEbRRGALYWOemYmE/giphy.webp"  />
+</div>
+#
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/abdelrahman_lo737_03858#0) 
 
@@ -11,10 +15,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulrahmanHamdy&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<div align="center">
-  <img  height="150"  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWR2aWpsdDd0NGVxbHRrdzRranY1dHFkM2tobzVxdG9uN3U0MmpwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VESEbRRGALYWOemYmE/giphy.webp"  />
-</div>
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AbdulrahmanHamdy&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
