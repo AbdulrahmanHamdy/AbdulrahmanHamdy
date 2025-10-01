@@ -134,9 +134,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/AbdulrahmanHamdy/count.svg?"  />
-</div>
+
 
 ###
 
