@@ -1,4 +1,3 @@
-
 <div align="center">
   <img  height="150"  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWR2aWpsdDd0NGVxbHRrdzRranY1dHFkM2tobzVxdG9uN3U0MmpwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VESEbRRGALYWOemYmE/giphy.webp"  />
   <p align="center">
@@ -107,6 +106,11 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AbdulrahmanHamdy&theme=merko&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulrahmanHamdy&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🐍 Contribution Snake
+<p align="center">
+<img src="https://raw.githubusercontent.com/AbdulrahmanHamdy/AbdulrahmanHamdy/output/github-contribution-grid-snake.svg" />
+</p>
 
 ### ✍️ Random Dev Quote
 
