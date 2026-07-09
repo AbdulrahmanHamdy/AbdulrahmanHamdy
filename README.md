@@ -6,7 +6,7 @@
 </p>
 </div>
 
-- 👨‍🎓 graduate CS Student
+- 👨‍🎓 graduated CS Student
 - 📍 Faculty of Science, Ain Shams University
 
 ### Connect with Me :  
