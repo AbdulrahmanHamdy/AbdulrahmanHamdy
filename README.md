@@ -6,8 +6,8 @@
 </p>
 </div>
 
-- 👨‍🎓 graduated CS Student
-- 📍 Faculty of Science, Ain Shams University
+-  Back-End Devoloper
+-  Faculty of Science, Ain Shams University
 
 ### Connect with Me :  
 <div align="left">  
